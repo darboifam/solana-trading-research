@@ -30,11 +30,11 @@ The project grew from small wallet and message-handling scripts into several con
 
 ## Explore the project
 
-- [Development history](docs/PROJECT_HISTORY.md)
-- [Workstreams and scope](docs/PROJECT_SCOPE.md)
-- [System architecture](docs/ARCHITECTURE.md)
-- [Research methods and engineering lessons](docs/RESEARCH_ENGINEERING.md)
-- [Technology and upstream credits](docs/TECHNOLOGY_AND_CREDITS.md)
+- [Development history](PROJECT_HISTORY.md)
+- [Workstreams and scope](PROJECT_SCOPE.md)
+- [System architecture](ARCHITECTURE.md)
+- [Research methods and engineering lessons](RESEARCH_ENGINEERING.md)
+- [Technology and upstream credits](TECHNOLOGY_AND_CREDITS.md)
 
 ## Status and evidence
 
