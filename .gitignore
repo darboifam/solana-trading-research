@@ -1,0 +1,10 @@
+# Documentation-only allowlist. Review content before committing.
+*
+!/.gitignore
+!/README.md
+!/docs/
+!/docs/PROJECT_HISTORY.md
+!/docs/PROJECT_SCOPE.md
+!/docs/ARCHITECTURE.md
+!/docs/RESEARCH_ENGINEERING.md
+!/docs/TECHNOLOGY_AND_CREDITS.md
