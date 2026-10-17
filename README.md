@@ -8,8 +8,6 @@
 **Status:** Ongoing Independent Research  
 **Implementation:** Private | **Documentation:** Public
 
----
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?logo=telegram&logoColor=white)
