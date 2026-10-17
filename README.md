@@ -10,6 +10,16 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?logo=telegram&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-555555)
+![LLM Assisted](https://img.shields.io/badge/LLM_Assisted_Engineering-412991)
+
+---
+
 ## Project Overview
 
 This repository documents the development of my independent Solana trading automation and quantitative research platform, a long-term personal engineering project that I began in January 2025.
